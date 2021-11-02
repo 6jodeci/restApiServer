@@ -1,11 +1,10 @@
 package main
 
 import (
+	"github.com/666savages/restApiServer/internal/app/apiserver"
 	"github.com/BurntSushi/toml"
-
 	"flag"
 	"log"
-	"restapi-lesson/restapivalid/internal/app/apiserver"
 )
 
 var (
